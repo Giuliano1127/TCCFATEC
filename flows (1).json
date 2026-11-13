@@ -1,0 +1,23 @@
+[
+    {
+        "id": "eb0f39c5df168c5f",
+        "type": "mqtt in",
+        "z": "a8d054d3169e4c7c",
+        "name": "Altura",
+        "topic": "Altura",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 580,
+        "y": 100,
+        "wires": [
+            [
+                "5c34392e2def2eab"
+            ]
+        ]
+    }
+]
