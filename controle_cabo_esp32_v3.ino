@@ -6,6 +6,7 @@
 
 // ======================================================
 // WI-FI E MQTT — PREENCHA COM SEUS DADOS
+// (nao suba SSID/senha para o GitHub)
 // ======================================================
 
 const char* SSID = "";
