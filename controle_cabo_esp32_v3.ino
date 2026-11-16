@@ -6,12 +6,11 @@
 
 // ======================================================
 // WI-FI E MQTT — PREENCHA COM SEUS DADOS
-// (nao suba SSID/senha para o GitHub)
 // ======================================================
 
-const char* SSID = "";
-const char* SENHA = "";
-const char* BROKER = "";
+const char* SSID = "SSID";
+const char* SENHA = "SENHA";
+const char* BROKER = "IP";
 const int PORTA_MQTT = ;
 
 // ======================================================
