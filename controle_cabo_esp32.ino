@@ -11,7 +11,7 @@
 const char* SSID = "";
 const char* SENHA = "";
 const char* BROKER = "";
-const int PORTA_MQTT = ;
+const int PORTA_MQTT =;
 
 // ======================================================
 // TÓPICOS MQTT
