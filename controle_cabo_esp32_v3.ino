@@ -8,9 +8,9 @@
 // WI-FI E MQTT — PREENCHA COM SEUS DADOS
 // ======================================================
 
-const char* SSID = "SSID";
-const char* SENHA = "SENHA";
-const char* BROKER = "IP";
+const char* SSID = "";
+const char* SENHA = "";
+const char* BROKER = "";
 const int PORTA_MQTT = ;
 
 // ======================================================
